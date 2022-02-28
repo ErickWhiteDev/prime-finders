@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class SieveOfEratosthenes {
+public class PrimeFinder {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int limit = sc.nextInt();
